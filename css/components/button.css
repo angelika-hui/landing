@@ -1,0 +1,22 @@
+.btn-blue {
+	background-color: #E3D0B9;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: #83512E;
+	font: weight: bolder;
+	font-family: 'Source Sans Pro', sans-serif;
+	margin-left: 30px;
+	text-decoration: none;
+}
+
+.btn-brown {
+	background-color: #E3D0B9;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: #83512E;
+	font: weight: bolder;
+	font-family: 'Source Sans Pro', sans-serif;
+	margin-left: 30px;
+	text-decoration: none;
+	text-align: center;
+}
